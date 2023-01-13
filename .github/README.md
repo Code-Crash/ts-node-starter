@@ -43,5 +43,6 @@ TODOs:
 1. Complete Test Cases For Current Logic.
    1. Unit Tests For Helpers/Methods and Constants
    2. Mock Server Test Setup For Express
-2. Add more common use cases for any `node.js` projects
-3. Update the README.md
+2. Details About Scripts/Setup
+3. Add more common use cases for any `node.js` projects
+4. Update the README.md
